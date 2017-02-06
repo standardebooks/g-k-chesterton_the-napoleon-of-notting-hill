@@ -1,2 +1,72 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+abbr.name{
+	white-space: nowrap;
+}
+
+section[epub|type~="chapter"],
+section[epub|type~="part"] > h2{
+	page-break-after: always;
+}
+
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:song"] p span,
+[epub|type~="z3998:poem"] p span,
+[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] br,
+[epub|type~="z3998:poem"] br,
+[epub|type~="z3998:verse"] br{
+	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
+header p,
+.poster p{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
+
+.poster b{
+	font-weight: normal;
+	font-size: 1.2em;
+}
+
+.poster.small p{
+	font-variant: none;
+	font-size: .8em;
+}
+
+header p{
+	margin: 3em 0;
+}
+
+section[epub:type~="epigraph"] p{
+	text-align: right;
+	margin-top: 1em;
+}
