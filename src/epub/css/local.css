@@ -71,7 +71,7 @@ header p{
 	margin: 3em 0;
 }
 
-section[epub:type~="epigraph"] p{
+section[epub|type~="epigraph"] p{
 	text-align: right;
 	margin-top: 1em;
 }
