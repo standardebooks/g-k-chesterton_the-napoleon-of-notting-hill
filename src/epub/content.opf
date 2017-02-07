@@ -18,7 +18,7 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Napoleon of Notting Hill</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
+		<meta property="file-as" refines="#title">Napoleon of Notting Hill, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
 		<dc:subject id="subject-3">Notting Hill (London, England) -- Fiction</dc:subject>
@@ -26,7 +26,7 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/20058</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/20058</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
@@ -46,10 +46,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021157</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">William Logsdail</dc:contributor>
+		<meta property="file-as" refines="#artist">Logsdail, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Logsdail</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr96008501</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jason Isbell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Isbell, Jason</meta>
