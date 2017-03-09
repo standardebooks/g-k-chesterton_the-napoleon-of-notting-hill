@@ -66,7 +66,11 @@ p span.i2{
 	font-size: .8em;
 }
 
-section[epub|type~="epigraph"] > p{
+footer{
 	text-align: right;
 	margin-top: 1em;
+}
+
+.signature{
+	font-variant: small-caps;
 }
