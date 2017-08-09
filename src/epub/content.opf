@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-napoleon-of-notting-hill</dc:identifier>
 		<dc:date>2017-02-09T06:15:30Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T20:22:09Z</meta>
-		<meta property="se:revision-number">14</meta>
+		<meta property="dcterms:modified">2017-08-09T23:04:54Z</meta>
+		<meta property="se:revision-number">15</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,10 +28,10 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			<p><i>The Napoleon of Notting Hill</i>, like so many Chesterton novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century—except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.</p>
-			<p>With the new prankster king in place, the novel continues on with surprisingly action-packed breeziness, exploring themes of identity, patriotism, politics, and government.</p>
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Napoleon of Notting Hill&lt;/i&gt;, like so many Chesterton novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century—except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.&lt;/p&gt;
+			&lt;p&gt;With the new prankster king in place, the novel continues on with surprisingly action-packed breeziness, exploring themes of identity, patriotism, politics, and government.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20058</dc:source>
