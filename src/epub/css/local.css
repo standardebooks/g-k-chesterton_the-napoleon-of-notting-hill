@@ -6,10 +6,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 section[epub|type~="chapter"],
 section[epub|type~="part"] > h2{
 	page-break-after: always;
@@ -57,7 +53,6 @@ p span.i2{
 }
 
 .poster b{
-	font-weight: normal;
 	font-size: 1.2em;
 }
 
