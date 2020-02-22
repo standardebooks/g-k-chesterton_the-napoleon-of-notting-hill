@@ -56,7 +56,7 @@ p span.i2{
 	font-size: 1.2em;
 }
 
-.poster.small p{
+#book-4 blockquote:nth-last-of-type(2) p{
 	font-variant: none;
 	font-size: .8em;
 }
