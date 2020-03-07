@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="book-1.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>The question mark is part of the pamphlet title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
