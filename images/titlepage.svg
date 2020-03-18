@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of The Napoleon of Notting Hill, by G. K. Chesterton</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
