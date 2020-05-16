@@ -41,7 +41,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Napoleon of Notting Hill&lt;/i&gt;, like so many Chesterton novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century—except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Napoleon of Notting Hill&lt;/i&gt;, like so many &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;Chesterton&lt;/a&gt; novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century—except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.&lt;/p&gt;
 			&lt;p&gt;With the new prankster king in place, the novel continues on with surprisingly action-packed breeziness, exploring themes of identity, patriotism, politics, and government.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
