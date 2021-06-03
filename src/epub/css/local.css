@@ -1,6 +1,12 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="dedication"] > p{
+	font-variant: small-caps;
+	margin: 3em;
+	text-align: center;
+}
+
 section[epub|type~="chapter"],
 section[epub|type~="part"] > h2{
 	break-after: page;
