@@ -48,9 +48,9 @@ p span.i2{
 }
 
 .poster p{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
 }
 
 .poster b{
@@ -58,13 +58,13 @@ p span.i2{
 }
 
 #book-4 blockquote:nth-last-of-type(2) p{
-	font-variant: none;
 	font-size: .8em;
+	font-variant: none;
 }
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{
