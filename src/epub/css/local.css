@@ -54,11 +54,11 @@ p span.i2{
 }
 
 .poster b{
-	font-size: 1.2em;
+	font-size: larger;
 }
 
 #book-4 blockquote:nth-last-of-type(2) p{
-	font-size: .8em;
+	font-size: smaller;
 	font-variant: none;
 }
 
