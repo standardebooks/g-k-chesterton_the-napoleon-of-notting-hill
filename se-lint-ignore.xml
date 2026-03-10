@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="book-1.xhtml">
 		<ignore code="t-017">
+			<line>24</line>
 			<reason>Question mark is part of the pamphlet name.</reason>
 		</ignore>
 	</file>
