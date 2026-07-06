@@ -51,7 +51,7 @@
 		<meta property="schema:wordCount">54929</meta>
 		<meta property="schema:educationalLevel">71.65</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Napoleon_of_Notting_Hill" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/g-k-chesterton_the-napoleon-of-notting-hill" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
